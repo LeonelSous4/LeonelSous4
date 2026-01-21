@@ -18,6 +18,7 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://github.com/LeonelSous4">
     <img src="https://img.shields.io/badge/GitHub-Leonel Sousa-181717?style=for-the-badge&logo=github" />
   </a>
+  <br>
   <a href="https://www.instagram.com/_leo.s4?igsh=MXV6MTB2aW93Z2w3eA%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-Leo.s4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
