@@ -104,4 +104,3 @@ I also create content and share knowledge on **software development, SaaS, and t
   />
 
 </p>
-
