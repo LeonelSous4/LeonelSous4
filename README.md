@@ -84,7 +84,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma) -->
 
 ---
-
 ### 📊 Estatísticas
 
 <p>
@@ -93,14 +92,36 @@ I also create content and share knowledge on **software development, SaaS, and t
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LeonelSous4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LeonelSous4
+&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=false&border_color=FFFFFF"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSous4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSous4
+&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=false&border_color=FFFFFF"
   />
-
 </p>
+
+
+
+### 📊 Estatísticas
+
+<div style="display: flex; gap: 10px;">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=LeonelSous4&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=false&border_color=FFFFFF" 
+    alt="GitHub Stats" 
+    style="flex: 1 1 300px; max-width: 48%; min-width: 250px;"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSous4&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=false&border_color=FFFFFF" 
+    alt="Top Languages" 
+    style="flex: 1 1 300px; max-width: 48%; min-width: 250px;"
+  />
+
+</div>
+
