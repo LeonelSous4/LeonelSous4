@@ -86,13 +86,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 ---
 
 
-### 📊 Estatísticas
-
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeonelSous4&show_icons=true&theme=tokyonight&locale=pt-br)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeonelSous4&theme=tokyonight&layout=compact)
 
 
 
