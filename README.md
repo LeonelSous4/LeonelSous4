@@ -1,7 +1,7 @@
 # Hi 👋, I'm Leonel Sousa
 
 🎓 **Systems Analysis and Development Student (ADS) | Front-End Developer (Junior)**  
-🇧🇷 Brazil | 20 years old  
+🇧🇷 Brazil | 21 years old  
 
 I’m currently pursuing a degree in **Analysis and Development of Systems at Uninter**, focused on building real-world projects and strengthening my skills in **JavaScript, logic, and web development**.
 
