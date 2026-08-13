@@ -6,7 +6,7 @@
 I’m currently pursuing a degree in **Analysis and Development of Systems at Uninter**, focused on building real-world projects and strengthening my skills in **JavaScript, logic, and web development**.
 
 🚀 Goal: Become a **Full Stack Developer**  
-📚 English: Basic → Intermediate (in progress)
+📚 English: Basic A2 → Intermediate B1 (in progress)
 
 ---
 
