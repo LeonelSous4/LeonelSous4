@@ -22,9 +22,15 @@ I’m currently pursuing a degree in **Analysis and Development of Systems at Un
     <img src="https://img.shields.io/badge/Instagram-Leo.s4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br>
+  
   <a href="mailto:Leo.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-leo.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br>
+  <a href="https://www.linkedin.com/in/leonel-sousa-9704a7243/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Leonel%20Sousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+  
 
 </p>
 
