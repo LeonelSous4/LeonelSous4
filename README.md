@@ -80,7 +80,6 @@ Most of my progress comes from facing challenges, debugging, and improving my co
 - ⏳ Discipline and consistency  
 
 ---
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
