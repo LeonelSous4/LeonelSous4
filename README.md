@@ -56,13 +56,14 @@ Most of my progress comes from facing challenges, debugging, and improving my co
 
 ## 🛠️ Tech Stack
 
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![Html](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -79,13 +80,14 @@ Most of my progress comes from facing challenges, debugging, and improving my co
 - ⏳ Discipline and consistency  
 
 ---
+## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeonelSous4&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeonelSous4&show_icons=true&theme=tokyonight" />
 
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeonelSous4&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSous4&layout=compact&theme=tokyonight" />
 </p>
 
 ---
