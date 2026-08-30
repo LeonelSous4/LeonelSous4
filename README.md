@@ -84,12 +84,15 @@ Most of my progress comes from facing challenges, debugging, and improving my co
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeonelSous4&show_icons=true&theme=tokyonight" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSous4&layout=compact&theme=tokyonight" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=LeonelSous4&show_icons=true&theme=tokyonight"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelSous4&layout=compact&theme=tokyonight"
+  />
 </p>
-
----
 
 ## 🎯 Goals
 
